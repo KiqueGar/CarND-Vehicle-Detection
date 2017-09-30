@@ -78,7 +78,7 @@ and non maximum supression") is used, resulting in:
 
 A resulting video:
 
-Here's a [link to my video result](./project_video_out.mp4)
+Here's a [link to my video result](https://youtu.be/V_8SWQt-V4A)
 
 ---
 
