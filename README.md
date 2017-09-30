@@ -15,7 +15,6 @@ The goals / steps of this project are the following:
 [image7]: ./output_images/Short_distance.jpg "Neighborhood windows"
 [image8]: ./output_images/Pipeline_example.PNG "Pipeline"
 [image9]: ./output_images/non_max_supress.PNG "Pipeline with non max supression"
-[image10]:
 [video1]: ./project_video.mp4
 
 ## 1. HOG features and classifier.
@@ -78,7 +77,7 @@ and non maximum supression") is used, resulting in:
 
 A resulting video:
 
-Here's a [link to my video result](https://youtu.be/V_8SWQt-V4A)
+Here's a [link to my video result](https://youtu.be/FaTb_hTfWqA)
 
 ---
 
